@@ -1,12 +1,12 @@
 <template>
   <div class="home">
-    <h1 class="text">SOMETHING GENERAL HERE</h1>
+    <h1 class="text">OSAVUS OY</h1>
   </div>
 </template>
 
 <script setup></script>
 
-<style>
+<style scoped lang="scss">
 .home {
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
     url("~@/assets/light.jpg");
@@ -19,5 +19,8 @@
   color: white;
   font-weight: 500;
   font-size: 8rem;
+}
+.content {
+  margin-top: 25vh;
 }
 </style>
