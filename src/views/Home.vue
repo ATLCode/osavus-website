@@ -17,7 +17,7 @@
 }
 .text {
   color: white;
-  font-weight: 500;
+  font-weight: 650;
   font-size: 8rem;
 }
 .content {

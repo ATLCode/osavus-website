@@ -1,13 +1,13 @@
 <template>
   <div class="services">
     <div class="consulting card">
-      <router-link to="/" class="rl"
+      <router-link to="/business" class="rl"
         ><h1 class="text">BUSINESS CONSULTING</h1></router-link
       >
     </div>
 
     <div class="coding card">
-      <router-link to="/" class="rl"
+      <router-link to="/software" class="rl"
         ><h1 class="text">SOFTWARE DEVELOPMENT</h1></router-link
       >
     </div>
